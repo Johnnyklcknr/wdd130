@@ -1,0 +1,67 @@
+body {
+    background-color: linen;
+    color: darkblue;
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: azure;
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36pt;
+    margin: 0 0 1em;
+    text-align: center;
+}
+
+h2 {
+    background-color: azure;
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30pt;
+    margin: 0 0 1em;
+    text-align: center;
+}
+
+p {
+    margin: 0 0 1em;
+}
+
+footer {
+    background-color: azure;
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    margin: 0;
+    padding: 1em 0;
+    text-align: center;
+}
+
+#profile {
+    float: left;
+    width: 200px;
+    height: auto;
+}
+
+#statepic {
+    float: right;
+    width: 200px;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
