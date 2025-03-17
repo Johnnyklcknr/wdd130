@@ -13,6 +13,28 @@ div {
     height: auto;
 }
 
+aside {
+    background-color: azure;
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    margin: 0 0 1em;
+    padding: 1em;
+    width: 20%;
+    float: left;
+}
+
+article {
+    background-color: azure;
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    margin: 0 0 1em;
+    padding: 1em;
+    width: 80%;
+    float: right;
+}
+
 h1 {
     background-color: azure;
     color: darkblue;
@@ -55,32 +77,20 @@ main img {
     height: auto;
 }
 
-#profile {
-    float: left;
-    width: 200px;
-    height: auto;
-}
-
-#statepic {
-    float: right;
-    width: 200px;
-    height: 200px;
-}
-
-.introduction {
+nav {
+    background-color: azure;
     color: darkblue;
     font-family: 'Times New Roman', Times, serif;
     font-size: 14pt;
+    margin: 0 0 1em;
     padding: 1em;
-    width: 80%;
+    width: 100%;
+    text-align: center;
 }
 
-.stateinfo {
+nav a {
     color: darkblue;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 14pt;
-    padding: 1em;
-    width: 80%;
+    text-decoration: none;
 }
 
 
