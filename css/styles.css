@@ -1,0 +1,49 @@
+main {
+    max-width: 840px;
+    margin: 0 auto;
+    padding: 20px;
+    border: groove 20px navy;
+    background-color: linen;
+    border-radius: 20px;
+    padding: 20px;
+    color:forestgreen;
+}
+
+aside {
+    background-color: linen;
+    max-width: 840px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: linen;
+    border: groove 20px forestgreen;
+    border-radius: 20px;
+    padding: 20px;
+    color:navy;
+}
+
+main.img {
+    max-width: 200px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+aside.img {
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+p {
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5em;
+    padding:0%;
+    margin:0%;
+}
+
+
