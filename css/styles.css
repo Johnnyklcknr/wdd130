@@ -21,16 +21,54 @@ aside {
     color:navy;
 }
 
-main.img {
-    max-width: 200px;
-    height: 300px;
-    display: block;
+nav {
+    background-color: linen;
+    max-width: 840px;
     margin: 0 auto;
     padding: 20px;
+    background-color: linen;
+    border: groove 20px forestgreen;
+    border-radius: 20px;
+    padding: 20px;
+    color:navy;
 }
 
+nav a {
+    color: navy;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}   
 
-aside.img {
+h1 {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5em;
+    padding:0;
+    margin:0%;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5em;
+    padding:0;
+    margin:0%;
+}
+
+footer {
+    background-color: linen;
+    max-width: 840px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: linen;
+    border: groove 20px forestgreen;
+    border-radius: 20px;
+    padding: 20px;
+    color:navy;
+}
+
+img {
     max-width: 200px;
     height: auto;
     display: block;
@@ -42,8 +80,18 @@ p {
     font-size: 14px;
     font-family: 'Courier New', Courier, monospace;
     line-height: 1.5em;
-    padding:0%;
+    padding:0;
     margin:0%;
 }
+
+aside img {
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
 
 
