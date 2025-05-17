@@ -60,6 +60,9 @@ footer {
     background-color: linen;
     max-width: 840px;
     margin: 0 auto;
+    margin-top: center;
+    border-top: center;
+    text-align: center;
     padding: 20px;
     background-color: linen;
     border: groove 20px forestgreen;
